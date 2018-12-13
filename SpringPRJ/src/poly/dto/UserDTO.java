@@ -3,11 +3,11 @@ package poly.dto;
 
 public class UserDTO {
 
-	private int user_no; //È¸¿ø ¹øÈ£
-	private String stu_no; //ÇĞ¹ø
-	private String password; //ºñ¹Ğ¹øÈ£
-	private String reg_dt; //°¡ÀÔÀÏ
-	private String barcode_no; //¹ÙÄÚµå ¹øÈ£
+	private int user_no; //ìœ ì € ë²ˆí˜¸
+	private String stu_no; //í•™ë²ˆ
+	private String password; //ë¹„ë°€ë²ˆí˜¸
+	private String reg_dt; //ê°€ì…ì¼ì
+	private String barcode_no; //ë°”ì½”ë“œ ë²ˆí˜¸
 	
 	public int getUser_no() {
 		return user_no;
