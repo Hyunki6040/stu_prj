@@ -4,7 +4,6 @@
 <%
 int user_no =  1;//CmmUtil.nvl((String)session.getAttribute("id"));
 String barcode = CmmUtil.nvl((String)request.getAttribute("barcode"));
-
 %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">

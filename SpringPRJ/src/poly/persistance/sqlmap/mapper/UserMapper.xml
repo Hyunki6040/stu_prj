@@ -9,6 +9,25 @@
 		from user_info
 		where (user_no = #{user_no})
 	</select>
+	
+	<insert id="insertStu" parameterType="StudentDTO">
+		INSERT INTO stu_info
+		(
+			stu_no,
+			department,
+			stu_name,
+			birth_date,
+			reg_dt
+		)
+		VALUES
+		(
+			#{stu_no},
+			#{department},
+			#{stu_name},
+			#{birth_date},
+			now()
+		)
+	</insert>
 </mapper>
 
 
