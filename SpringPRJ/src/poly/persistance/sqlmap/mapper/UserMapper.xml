@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- JAVA와 연결할 Mapper 파일 설정 -->
+<mapper namespace="poly.persistance.mapper.UserMapper">
+	<!-- insert, update, delete, select -->
+	
+	<select id="getBarcode" parameterType="int" resultType="string">
+		SELECT barcode_no
+		from user_info
+		where (user_no = #{user_no})
+	</select>
+	
+	<insert id="insertStu" parameterType="StudentDTO">
+		INSERT INTO stu_info
+		(
+			stu_no,
+			department,
+			stu_name,
+			birth_date,
+			reg_dt
+		)
+		VALUES
+		(
+			#{stu_no},
+			#{department},
+			#{stu_name},
+			#{birth_date},
+			now()
+		)
+	</insert>
+</mapper>
+
+
+
+
+
