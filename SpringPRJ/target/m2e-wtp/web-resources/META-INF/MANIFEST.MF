@@ -1,10 +1,15 @@
 Manifest-Version: 1.0
 <<<<<<< HEAD
+<<<<<<< HEAD
 Built-By: data1
 Build-Jdk: 1.8.0_161
 =======
 Built-By: data16
 Build-Jdk: 1.8.0_181
 >>>>>>> branch 'master' of https://github.com/Hyunki6040/stu_prj.git
+=======
+Built-By: data1
+Build-Jdk: 1.8.0_161
+>>>>>>> refs/remotes/origin/myDickisSoCool
 Created-By: Maven Integration for Eclipse
 

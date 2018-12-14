@@ -68,7 +68,11 @@
 	
 	<!-- 도메인만 입력했을 경우, 보여주는 페이지 -->
 	<welcome-file-list>
+<<<<<<< HEAD
 		<welcome-file>/main.do</welcome-file>
+=======
+		<welcome-file>/index.do</welcome-file>
+>>>>>>> refs/remotes/origin/myDickisSoCool
 	</welcome-file-list>
 		
 	<!-- 에러 발생시, 에러페이지 이동 -->

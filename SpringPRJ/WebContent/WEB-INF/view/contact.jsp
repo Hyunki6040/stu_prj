@@ -42,6 +42,7 @@
                     <nav class="classy-navbar justify-content-between" id="pixelNav">
 
                         <!-- Nav brand -->
+<<<<<<< HEAD
                         <a href="index.jsp" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
 
                         <!-- Navbar Toggler -->
@@ -253,6 +254,219 @@
                     <div class="single-footer-widget mb-100">
                         <!-- Footer Logo -->
                         <a href="index.jsp" class="footer-logo"><img src="img/core-img/logo.png" alt=""></a>
+=======
+                        <a href="index.html" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="services.html">Services</a></li>
+                                    <li><a href="portfolio.html">Pages</a>
+                                        <ul class="dropdown">
+                                            <li><a href="index.html">Home</a></li>
+                                            <li><a href="about.html">About Us</a></li>
+                                            <li><a href="services.html">Services</a>
+                                                <ul class="dropdown">
+                                                    <li><a href="index.html">Home</a></li>
+                                                    <li><a href="about.html">About Us</a></li>
+                                                    <li><a href="services.html">Services</a></li>
+                                                    <li><a href="portfolio.html">Portfolio</a>
+                                                        <ul class="dropdown">
+                                                            <li><a href="index.html">Home</a></li>
+                                                            <li><a href="about.html">About Us</a></li>
+                                                            <li><a href="services.html">Services</a></li>
+                                                            <li><a href="portfolio.html">Portfolio</a></li>
+                                                            <li><a href="contact.html">Contact</a></li>
+                                                            <li><a href="elements.html">Elements</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li><a href="contact.html">Contact</a></li>
+                                                    <li><a href="elements.html">Elements</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="portfolio.html">Portfolio</a></li>
+                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="elements.html">Elements</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">Mega</a>
+                                        <div class="megamenu">
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">Home</a></li>
+                                                <li><a href="about.html">About Us</a></li>
+                                                <li><a href="services.html">Services</a></li>
+                                                <li><a href="portfolio.html">Portfolio</a></li>
+                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="elements.html">Elements</a></li>
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">Home</a></li>
+                                                <li><a href="about.html">About Us</a></li>
+                                                <li><a href="services.html">Services</a></li>
+                                                <li><a href="portfolio.html">Portfolio</a></li>
+                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="elements.html">Elements</a></li>
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">Home</a></li>
+                                                <li><a href="about.html">About Us</a></li>
+                                                <li><a href="services.html">Services</a></li>
+                                                <li><a href="portfolio.html">Portfolio</a></li>
+                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="elements.html">Elements</a></li>
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">Home</a></li>
+                                                <li><a href="about.html">About Us</a></li>
+                                                <li><a href="services.html">Services</a></li>
+                                                <li><a href="portfolio.html">Portfolio</a></li>
+                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="elements.html">Elements</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                </ul>
+
+                                <!-- Top Social Info -->
+                                <div class="top-social-info ml-5">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-dribbble"></i></a>
+                                    <a href="#"><i class="fa fa-flickr"></i></a>
+                                    <a href="#"><i class="fa fa-instagram"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                    <a href="#"><i class="fa fa-pinterest"></i></a>
+                                </div>
+                            </div>
+                            <!-- Nav End -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <section class="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/8.jpg);">
+        <div class="container-fluid h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12">
+                    <div class="breadcrumb-content">
+                        <h2>Contact</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### Google Maps ##### -->
+    <div class="map-area">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22236.40558254599!2d-118.25292394686001!3d34.057682914027104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2z4Kay4Ka4IOCmj-CmnuCnjeCmnOCnh-CmsuCnh-CmuCwg4KaV4KeN4Kav4Ka-4Kay4Ka_4Kar4KeL4Kaw4KeN4Kao4Ka_4Kav4Ka84Ka-LCDgpq7gpr7gprDgp43gppXgpr_gpqgg4Kav4KeB4KaV4KeN4Kak4Kaw4Ka-4Ka34KeN4Kaf4KeN4Kaw!5e0!3m2!1sbn!2sbd!4v1532328708137" allowfullscreen></iframe>
+    </div>
+
+    <!-- ##### Contact Area Start ##### -->
+    <section class="contact-area section-padding-100-0">
+        <div class="container">
+            <div class="row">
+
+                <!-- Single Contact Area -->
+                <div class="col-12 col-lg-4">
+                    <!-- Contact Content -->
+                    <div class="contact-content mb-100">
+                        <!-- Section Heading -->
+                        <div class="section-heading">
+                            <h2>Where?</h2>
+                            <h6>Our Address</h6>
+                        </div>
+
+                        <!-- Single Contact Content -->
+                        <div class="single-contact-content d-flex">
+                            <div class="icon">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <div class="text">
+                                <h6>Address</h6>
+                                <p>1530 Doverfield Ave <br> Hacienda Heights, California(CA), 91745 </p>
+                            </div>
+                        </div>
+
+                        <!-- Single Contact Content -->
+                        <div class="single-contact-content d-flex">
+                            <div class="icon">
+                                <i class="fa fa-envelope-o"></i>
+                            </div>
+                            <div class="text">
+                                <h6>Email</h6>
+                                <p>office@pixelagency.com <br> johndoe@pixelagency,com</p>
+                            </div>
+                        </div>
+
+                        <!-- Single Contact Content -->
+                        <div class="single-contact-content d-flex">
+                            <div class="icon">
+                                <i class="fa fa-phone"></i>
+                            </div>
+                            <div class="text">
+                                <h6>Phone</h6>
+                                <p>+01 251 332 331 <br>+01 251 132 331</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Contact Area -->
+                <div class="col-12 col-lg-8">
+                    <!-- Section Heading -->
+                    <div class="section-heading">
+                        <h2>Get In Touch</h2>
+                        <h6>Drop us a few lines</h6>
+                    </div>
+
+                    <!-- Contact Form -->
+                    <div class="contact-form-area mb-100">
+                        <form action="#" method="post">
+                            <input type="text" name="name" class="form-control" placeholder="Name">
+                            <input type="email" name="email" class="form-control" placeholder="E-mail">
+                            <input type="text" name="subject" class="form-control" placeholder="Subject">
+                            <textarea name="message" class="form-control" placeholder="Message"></textarea>
+                            <button type="submit" class="btn pixel-btn">Send Message</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!-- ##### Contact Area End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area section-padding-100-0">
+        <div class="container-fluid">
+            <div class="row justify-content-between">
+
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-md-3">
+                    <div class="single-footer-widget mb-100">
+                        <!-- Footer Logo -->
+                        <a href="index.html" class="footer-logo"><img src="img/core-img/logo.png" alt=""></a>
+>>>>>>> refs/remotes/origin/myDickisSoCool
                     </div>
                 </div>
 

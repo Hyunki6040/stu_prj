@@ -42,6 +42,7 @@
                     <nav class="classy-navbar justify-content-between" id="pixelNav">
 
                         <!-- Nav brand -->
+<<<<<<< HEAD
                         <a href="index.jsp" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
 
                         <!-- Navbar Toggler -->
@@ -270,6 +271,236 @@
                     <div class="single-footer-widget mb-100">
                         <!-- Footer Logo -->
                         <a href="index.jsp" class="footer-logo"><img src="img/core-img/logo.png" alt=""></a>
+=======
+                        <a href="index.html" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="services.html">Services</a></li>
+                                    <li><a href="portfolio.html">Pages</a>
+                                        <ul class="dropdown">
+                                            <li><a href="index.html">Home</a></li>
+                                            <li><a href="about.html">About Us</a></li>
+                                            <li><a href="services.html">Services</a>
+                                                <ul class="dropdown">
+                                                    <li><a href="index.html">Home</a></li>
+                                                    <li><a href="about.html">About Us</a></li>
+                                                    <li><a href="services.html">Services</a></li>
+                                                    <li><a href="portfolio.html">Portfolio</a>
+                                                        <ul class="dropdown">
+                                                            <li><a href="index.html">Home</a></li>
+                                                            <li><a href="about.html">About Us</a></li>
+                                                            <li><a href="services.html">Services</a></li>
+                                                            <li><a href="portfolio.html">Portfolio</a></li>
+                                                            <li><a href="contact.html">Contact</a></li>
+                                                            <li><a href="elements.html">Elements</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li><a href="contact.html">Contact</a></li>
+                                                    <li><a href="elements.html">Elements</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="portfolio.html">Portfolio</a></li>
+                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="elements.html">Elements</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">Mega</a>
+                                        <div class="megamenu">
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">Home</a></li>
+                                                <li><a href="about.html">About Us</a></li>
+                                                <li><a href="services.html">Services</a></li>
+                                                <li><a href="portfolio.html">Portfolio</a></li>
+                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="elements.html">Elements</a></li>
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">Home</a></li>
+                                                <li><a href="about.html">About Us</a></li>
+                                                <li><a href="services.html">Services</a></li>
+                                                <li><a href="portfolio.html">Portfolio</a></li>
+                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="elements.html">Elements</a></li>
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">Home</a></li>
+                                                <li><a href="about.html">About Us</a></li>
+                                                <li><a href="services.html">Services</a></li>
+                                                <li><a href="portfolio.html">Portfolio</a></li>
+                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="elements.html">Elements</a></li>
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">Home</a></li>
+                                                <li><a href="about.html">About Us</a></li>
+                                                <li><a href="services.html">Services</a></li>
+                                                <li><a href="portfolio.html">Portfolio</a></li>
+                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="elements.html">Elements</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                </ul>
+
+                                <!-- Top Social Info -->
+                                <div class="top-social-info ml-5">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-dribbble"></i></a>
+                                    <a href="#"><i class="fa fa-flickr"></i></a>
+                                    <a href="#"><i class="fa fa-instagram"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                    <a href="#"><i class="fa fa-pinterest"></i></a>
+                                </div>
+                            </div>
+                            <!-- Nav End -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <section class="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/8.jpg);">
+        <div class="container-fluid h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12">
+                    <div class="breadcrumb-content">
+                        <h2>Portfolio</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### Portfolio Area Start ###### -->
+    <div class="pixel-portfolio-area section-padding-100">
+        <!-- Portfolio Menu -->
+        <div class="pixel-projects-menu">
+            <div class="text-center portfolio-menu">
+                <button class="btn active" data-filter="*">All Projects</button>
+                <button class="btn" data-filter=".visual">Visual</button>
+                <button class="btn" data-filter=".add">Advertising</button>
+                <button class="btn" data-filter=".web">Web Development</button>
+            </div>
+        </div>
+
+        <div class="pixel-portfolio">
+
+            <!-- Single gallery Item -->
+            <div class="single_gallery_item visual wow fadeInUp" data-wow-delay="0.2s">
+                <img src="img/bg-img/5.jpg" alt="">
+                <div class="hover-content text-center d-flex align-items-center justify-content-center">
+                    <div class="hover-text">
+                        <a href="img/bg-img/5.jpg" class="zoom-img"><i class="fa fa-eye" aria-hidden="true"></i></a>
+                        <h4>Branding Identity</h4>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single gallery Item -->
+            <div class="single_gallery_item add wow fadeInUp" data-wow-delay="0.4s">
+                <img src="img/bg-img/6.jpg" alt="">
+                <div class="hover-content text-center d-flex align-items-center justify-content-center">
+                    <div class="hover-text">
+                        <a href="img/bg-img/5.jpg" class="zoom-img"><i class="fa fa-eye" aria-hidden="true"></i></a>
+                        <h4>Branding Identity</h4>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single gallery Item -->
+            <div class="single_gallery_item web wow fadeInUp" data-wow-delay="0.6s">
+                <img src="img/bg-img/7.jpg" alt="">
+                <div class="hover-content text-center d-flex align-items-center justify-content-center">
+                    <div class="hover-text">
+                        <a href="img/bg-img/5.jpg" class="zoom-img"><i class="fa fa-eye" aria-hidden="true"></i></a>
+                        <h4>Branding Identity</h4>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single gallery Item -->
+            <div class="single_gallery_item visual wow fadeInUp" data-wow-delay="0.2s">
+                <img src="img/bg-img/9.jpg" alt="">
+                <div class="hover-content text-center d-flex align-items-center justify-content-center">
+                    <div class="hover-text">
+                        <a href="img/bg-img/5.jpg" class="zoom-img"><i class="fa fa-eye" aria-hidden="true"></i></a>
+                        <h4>Branding Identity</h4>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single gallery Item -->
+            <div class="single_gallery_item add wow fadeInUp" data-wow-delay="0.4s">
+                <img src="img/bg-img/10.jpg" alt="">
+                <div class="hover-content text-center d-flex align-items-center justify-content-center">
+                    <div class="hover-text">
+                        <a href="img/bg-img/5.jpg" class="zoom-img"><i class="fa fa-eye" aria-hidden="true"></i></a>
+                        <h4>Branding Identity</h4>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single gallery Item -->
+            <div class="single_gallery_item web wow fadeInUp" data-wow-delay="0.6s">
+                <img src="img/bg-img/11.jpg" alt="">
+                <div class="hover-content text-center d-flex align-items-center justify-content-center">
+                    <div class="hover-text">
+                        <a href="img/bg-img/5.jpg" class="zoom-img"><i class="fa fa-eye" aria-hidden="true"></i></a>
+                        <h4>Branding Identity</h4>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Pagination -->
+        <div class="container-fluid">
+            <nav aria-label="Page navigation">
+                <ul class="pagination mt-100 justify-content-center">
+                    <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item"><a class="page-link" href="#">4</a></li>
+                    <li class="page-item"><a class="page-link" href="#">5</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <!-- ##### Portfolio Area End ###### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area section-padding-100-0">
+        <div class="container-fluid">
+            <div class="row justify-content-between">
+
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-md-3">
+                    <div class="single-footer-widget mb-100">
+                        <!-- Footer Logo -->
+                        <a href="index.html" class="footer-logo"><img src="img/core-img/logo.png" alt=""></a>
+>>>>>>> refs/remotes/origin/myDickisSoCool
                     </div>
                 </div>
 
