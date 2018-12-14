@@ -115,6 +115,11 @@ public class MemberController {
 		return "/main";
 	}
 	
+	@RequestMapping(value="index")
+	public String index() throws Exception{
+		return "/index";
+	}
+	
 	@RequestMapping(value="member/memberReg")
 	public String memberReg() throws Exception{
 		return "/member/memberReg";
