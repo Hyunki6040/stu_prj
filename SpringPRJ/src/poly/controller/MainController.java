@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import poly.service.IMainService;
 
+@Controller
 public class MainController {
 	@Resource(name = "MainService")
 	private IMainService mainService;
