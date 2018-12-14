@@ -32,7 +32,7 @@
 		
 		<!-- 스프링에서 JSP 결과값을 전달할 때 기본이 되는 루트 위치 -->
 		<property name="prefix">
-			<value>/WEB-INF/view/</value>
+			<value>/web/</value>
 		</property>
 		
 		<property name="suffix">
