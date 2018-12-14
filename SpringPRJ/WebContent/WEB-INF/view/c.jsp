@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-test
+여기는 c페이지
 </body>
 </html>

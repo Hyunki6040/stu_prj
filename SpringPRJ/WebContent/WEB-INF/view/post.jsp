@@ -6,6 +6,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-test
+<form action="postResult.do" method="post">
+	cm : <input type="number" name="cm">
+	kg : <input type="number" name="kg">
+	<input type="submit" value="전송">
+</form>
 </body>
 </html>

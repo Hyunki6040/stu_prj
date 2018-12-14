@@ -110,10 +110,10 @@ public class MemberController {
 		return "/detailResult";
 	}
 	
-	/*@RequestMapping(value="index")
-	public String index() throws Exception{
-		return "/index";
-	}*/
+	@RequestMapping(value="main")
+	public String main() throws Exception{
+		return "/main";
+	}
 	
 	@RequestMapping(value="member/memberReg")
 	public String memberReg() throws Exception{
